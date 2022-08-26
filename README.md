@@ -1,2 +1,7 @@
 # questions-answers-React
-questions-answers-React app 
+
+This is questions-answers made with React 
+
+Here is the link : 
+
+https://adhmnabil.github.io/questions-answers-React/
